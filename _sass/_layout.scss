@@ -2,6 +2,7 @@
  * Content
  ******************************************************************************/
 
+ 
 body {
   padding-bottom: 70px;
   color: var(--global-text-color);
@@ -28,7 +29,7 @@ body.sticky-bottom-footer {
 }
 
 .container {
-  max-width: $max-content-width;
+  max-width: 930px; //$max-content-width;
 }
 
 // Profile

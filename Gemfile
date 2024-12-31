@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 group :jekyll_plugins do
     gem 'classifier-reborn'
     gem 'jekyll'
-    gem 'jekyll-archives'
+    gem 'jekyll-archives', '2.3.0'
     gem 'jekyll-email-protect'
     gem 'jekyll-feed'
     gem 'jekyll-get-json'
@@ -18,12 +18,14 @@ group :jekyll_plugins do
     gem 'jekyll-toc'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
-    gem 'terser'
+    gem 'terser', '1.2.4'
     gem 'unicode_utils'
     gem 'webrick'
+    gem 'kramdown', '2.5.1'
+    gem 'rouge', '4.5.1'
 end
 group :other_plugins do
-    gem 'css_parser'
+    gem 'css_parser', '1.21.0'
     gem 'feedjira'
     gem 'httparty'
 end
