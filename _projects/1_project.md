@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/transmission.jpg
+title: Atlas Chef 
+description: Classic Manipulators, Kinematics, Dynamics - CS/EE/ME 133a 
+img: assets/img/133a_final_gif.gif
 importance: 1
 category: work
 related_publications: true
@@ -14,6 +14,11 @@ to grab an item on a neighboring shelf with the left. We approached this problem
 right arm as the primary task and the left hand as the secondary task. Second, we defined both the right 
 and left hand tasks as primary tasks. We described our results including the tradeoffs between both approaches in our final report and video.
 
+<p>Links to project: 
+    <a href="/assets/pdf/ME133a_FinalProject.pdf" target="_blank">Final Report</a>,
+    <a href="https://github.com/avi-patel1/ME133a" target="_blank">Github</a>
+</p>  
+
  <!-- <a href="/files/ME133a_FinalProject.pdf" target="_blank">Final Report</a>,
 <a href="https://github.com/avi-patel1/ME133a" target="_blank">Github</a> -->
 
@@ -22,9 +27,9 @@ and left hand tasks as primary tasks. We described our results including the tra
     Your browser does not support the video tag.
 </video>
 
-<iframe style="width:100%; height:500px;" src="https://www.youtube.com/embed/2wi1nkayAvE"></iframe>
+<!-- <iframe style="width:100%; height:500px;" src="https://www.youtube.com/embed/2wi1nkayAvE"></iframe> -->
 
-<details>
+<!-- <details>
 <summary><b> Classic Manipulators, Kinematics, Dynamics - CS/EE/ME 133a </b>
     </summary>
     <p>
@@ -37,7 +42,7 @@ and left hand tasks as primary tasks. We described our results including the tra
         and left hand tasks as primary tasks. We described our results including the tradeoffs between both approaches 
         in our final report and video.
         </p>
-</details>
+</details> -->
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
