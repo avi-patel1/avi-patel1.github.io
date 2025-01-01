@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-engineering-projects",
           title: "engineering projects",
-          description: "A hello growing collection of your cool projects.",
+          description: "A growing collection of engineering projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -428,9 +428,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-atlas-chef",
+          title: 'Atlas Chef',
+          description: "Classic Manipulators, Kinematics, Dynamics - CS/EE/ME 133a",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
