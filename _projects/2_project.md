@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ghost Path Planner for Pac-Man
+title: Path Planner for Pac-Man
 description: Planning, Localization and Navigation - CS/EE/ME 133b 
 img: assets/img/133b_final_gif.gif
 importance: 2
