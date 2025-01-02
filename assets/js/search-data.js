@@ -412,14 +412,14 @@ ninja.data = [{
           description: "Classic Manipulators, Kinematics, Dynamics - CS/EE/ME 133a",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-ghost-path-planner-for-pac-man",
-          title: 'Ghost Path Planner for Pac-Man',
+            },},{id: "projects-path-planner-for-pac-man",
+          title: 'Path Planner for Pac-Man',
           description: "Planning, Localization and Navigation - CS/EE/ME 133b",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-mobile-robot",
+          title: 'Mobile Robot',
+          description: "Experimental Robotics - CS/EE/ME 129",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
