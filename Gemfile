@@ -1,7 +1,18 @@
 source 'https://rubygems.org'
 group :jekyll_plugins do
+    gem 'google-protobuf', '4.29.2'
     gem 'classifier-reborn'
-    gem 'jekyll'
+    gem 'jekyll', '4.3.4'
+    gem 'i18n', '1.14.6'
+    gem 'jekyll-sass-converter', '3.0.0'
+    gem 'nokogiri', '1.18.1'
+    gem 'loofah', '2.23.1'
+    gem 'concurrent-ruby', '1.3.4'
+    gem 'sass-embedded', '1.83.0'
+    gem 'citeproc', '1.0.10'
+    gem 'observer'
+    gem 'activesupport', '8.0.1'
+    gem 'connection_pool', '2.4.1'
     gem 'jekyll-archives', '2.3.0'
     gem 'jekyll-email-protect'
     gem 'jekyll-feed'
@@ -26,6 +37,6 @@ group :jekyll_plugins do
 end
 group :other_plugins do
     gem 'css_parser', '1.21.0'
-    gem 'feedjira'
+    gem 'feedjira', '3.2.3'
     gem 'httparty'
 end
